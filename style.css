@@ -5,8 +5,10 @@ body {
      font-family: 'Mali',cursive;
    }  
      .mainpage{width:1024px; margin:0 auto;}
-     .headname {
+     .headname1 {
          color: rgba(10, 255, 255, 0.986);
+     .headname2 {
+         color: #FFFFFF; 
      }
      header
      {
