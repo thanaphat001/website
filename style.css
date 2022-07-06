@@ -32,4 +32,6 @@ body {
      }
      .graphic{
       background: url("images/chantaburi-cover.jpeg");
+      height: 320px;
+      padding: auto;
      }
