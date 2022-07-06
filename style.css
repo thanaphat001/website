@@ -30,8 +30,13 @@ body {
        padding: 10px;
        text-align: center;
      }
+     
      .graphic{
       background: url("images/chantaburi-cover.jpeg");
       height: 320px;
       padding: auto;
+     }
+     .maps{
+      border : 1px solidrgb(236, 169, 245)
+      height : 300px;
      }
