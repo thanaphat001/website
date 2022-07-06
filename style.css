@@ -14,13 +14,13 @@ body {
      }
      header
      {
-       background-color: black;
+       background-color: rgb(2, 0, 0);
        color: white;
        height: 70px;
        padding: 10px;
      }
      footer{
-       background-color: black;
+       background-color: rgb(255, 255, 255);
        color: white;
        height: 50px;
        padding: 10px;
