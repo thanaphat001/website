@@ -36,7 +36,8 @@ body {
       height: 320px;
       padding: auto;
      }
+     
      .maps{
-      border : 1px solidrgb(236, 169, 245)
+      border : 1px solid#ccc;
       height : 300px;
      }
