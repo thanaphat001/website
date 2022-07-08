@@ -42,8 +42,11 @@ body {
       height : 300px;
      }
 
-     .top10 {
-      background-color:aliceblue
+     .top10{
+      background-color:white
       padding: 10px
      }
-
+     .img10{
+      width: 190px;
+      border-radius: 10px;
+     }
