@@ -46,6 +46,12 @@ body {
       background-color: rgb(114, 193, 212);
       padding: 10px;
      }
+     .topmenu ul{
+      list-style: disc;
+      margin: auto;
+      display: flex;
+      justify-content: left;
+     }
      .img10{
       width: 190px;
       border-radius: 10px;
