@@ -30,6 +30,11 @@ body {
        padding: 10px;
        text-align: center;
      }
+
+     a{
+      color:rgb(0, 0, 0);
+      text-decoration: none;
+     }
      
      .graphic{
       background: url("images/chantaburi-cover.jpeg");
@@ -65,4 +70,9 @@ body {
      .topmenu li{
       float: right;
       padding: 10px 40px;
+     }
+
+     .link10{
+      background-color: #FFFFFF;
+      padding: 10px;
      }
