@@ -3,7 +3,7 @@ body {
      background-repeat:no-repeat;
      background-size: cover;
      font-family: 'Mali',cursive;
-     color :black
+     color :rgb(255, 255, 255)
    }  
      .mainpage{width:1024px; margin:0 auto;}
       
@@ -73,6 +73,6 @@ body {
      }
 
      .link10{
-      background-color: #FFFFFF;
+      background-color:white;
       padding: 10px;
      }
